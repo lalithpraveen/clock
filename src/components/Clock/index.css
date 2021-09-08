@@ -1,0 +1,39 @@
+.clock-container {
+  background-color: #ffffff15;
+  border-radius: 16px;
+  padding: 30px 50px 40px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: white;
+  font-size: 40px;
+  margin-bottom: 20px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.heading-date {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: 'Roboto';
+  font-weight: normal;
+}
+
+.time {
+  color: white;
+  font-size: 60px;
+  margin: 20px;
+  font-family: 'Roboto';
+}
+
+.date {
+  color: white;
+  font-size: 30px;
+  margin: 0;
+  font-family: 'Roboto';
+}
